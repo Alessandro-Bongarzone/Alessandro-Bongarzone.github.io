@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro's Homepage"
+title                    : "Alessandro's Homepage" 
 title_separator          : "-"
 name                     : &name "Alessandro Bongarzone"
 description              : &description "Doctoral student"
