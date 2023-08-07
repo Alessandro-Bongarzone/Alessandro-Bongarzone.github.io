@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alessandro Bongarzone"
-  avatar           : "IMG_8447.jpg"
+  avatar           : "IMG_8447_round-min.jpg"
   bio              : "Hello there, I'm Alessandro"
   location         : "Lausanne, Switzerland"
   employer         : "EPFL"
@@ -99,17 +99,17 @@ author:
   github           : "Alessandro-Bongarzone"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/alessandrobonga/"
+  impactstory      : # example "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/alessandro-bongarzone-48867512b/"
   orcid            : "https://orcid.org/0000-0001-7867-8944"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # example http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Alessan47288713"
   vine             :
   weibo            :
   xing             :
