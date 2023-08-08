@@ -6,13 +6,13 @@ main:
   - title: "Talks"
     url: /talks/  
 
-#  - title: "Research"
-#    url: /year-archive/
+  - title: "Research Topics"
+    url: /year-archive/
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching and Tutoring"
+    url: /teaching/    
     
-  - title: "CV"
+  - title: "Resume"
     # url: /cv/
     url: /files/Resume_AB.pdf
     
