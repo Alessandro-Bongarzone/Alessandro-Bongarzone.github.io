@@ -2,7 +2,7 @@
 title: "ATTEMPT: Feedback-free microfluidic oscillator with impinging jets"
 collection: publications
 permalink: /publication/prova1
-excerpt: 'The present paper describes a microfluidic oscillator based on facing impinging jets and operating in laminar flow conditions...'
+excerpt: 'A. Bertsch, A. Bongarzone, M. Duchamp, P. Renaud and F. Gallaire'
 date: 2020-10-01
 venue: 'Physical Review Fluids'
 paperurl: 'https://doi.org/10.1103/PhysRevFluids.5.054202'
