@@ -1,15 +1,13 @@
 ---
 title: "Swinging jets"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/PRF_Swinging
+excerpt: 'A. Bertsch, A. Bongarzone, E. Yim, P. Renaud and F. Gallaire'
+date: 2020-10-01
+venue: 'Physical Review Fluids'
+paperurl: 'https://doi.org/10.1103/PhysRevFluids.5.110505'
+citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is associated with a video winner of a 2019 American Physical Society’s Division of Fluid Dynamics (DFD) Gallery of Fluid Motion Award for work presented at the DFD Gallery of Fluid Motion. The original video is available online at the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2019.GFM.V0036.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_Swinging-jets.pdf)
