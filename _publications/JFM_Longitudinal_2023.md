@@ -12,4 +12,4 @@ Resonant sloshing in circular cylinders was studied by Faltinsen et al. (J. Flui
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/JFM_Super-harmonically-resonant-swirling-waves-in-longitudinally-forced-circular-cylinders.pdf)
 
-<br/><img src='/images/JFM_Longitudinal_2023_GA.jpg'>
+<br/><img src='/images/JFM_Longitudinal_2023_GA.pdf'>
