@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alessandro Bongarzone"
   avatar           : "IMG_8447_round-min.jpg"
-  bio              : "Hello there, I'm Alessandro"
+  bio              : "PhD in Mechanical Engineering, EPFL"
   location         : "Lausanne, Switzerland"
-  employer         : "EPFL"
+  employer         : # "EPFL"
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=a2uYCMIAAAAJ&hl=it&oi=ao"
   email            : "bongarzone.alessandro@gmail.com"
