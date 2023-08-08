@@ -2,7 +2,7 @@
 title: "Super-harmonically resonant swirling waves in longitudinally forced circular cylinders"
 collection: publications
 permalink: /publication/JFM_Longitudinal_2023
-excerpt: 'A. Marcotte, F. Gallaire and A. Bongarzone'
+excerpt: "A. Marcotte, F. Gallaire and A. Bongarzone <br/><img src='/images/JFM_Longitudinal_2023_GA.jpg"
 date: 2023-10-01
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://doi.org/10.1017/jfm.2023.438'
