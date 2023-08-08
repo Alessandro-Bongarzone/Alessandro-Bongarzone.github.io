@@ -12,4 +12,4 @@ ATTEMPT: The present paper describes a microfluidic oscillator based on facing i
 
 [Check it out here](http://academicpages.github.io/files/paper3.pdf)
 
-
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
