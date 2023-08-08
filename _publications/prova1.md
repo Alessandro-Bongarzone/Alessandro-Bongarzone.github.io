@@ -12,4 +12,3 @@ The present paper describes a microfluidic oscillator based on facing impinging 
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_Feedback-free-microfluidic-oscillator-with-impinging-jets.pdf)
 
-DOI:
