@@ -1,7 +1,7 @@
 ---
 title: "Subharmonic parametric instability in nearly brimful circular cylinders: a weakly nonlinear analysis"
 collection: publications
-permalink: /publication/JFM_Rotary_2022
+permalink: /publication/JFM_Faraday_2022
 excerpt: 'A. Bongarzone, F. Viola, S. Camarri and F. Gallaire'
 date: 2022-10-01
 venue: 'Journal of Fluid Mechanics'
