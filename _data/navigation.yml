@@ -2,8 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-    Selected Publications
-
+    
   - title: "Talks"
     url: /talks/  
 
