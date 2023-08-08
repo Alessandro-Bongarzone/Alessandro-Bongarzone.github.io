@@ -5,6 +5,6 @@ type: "Conferences"
 permalink: /talks/ERCOFTAC_2023
 venue: "15th SIG 33-ERCOFTAC Workshop"
 date: 2023-03-01
-location: "Algher, Italy"
+location: "Alghero, Italy"
 ---
 
