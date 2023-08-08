@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/  
 
-  - title: "Research"
-    url: /year-archive/
+#  - title: "Research"
+#    url: /year-archive/
 
   - title: "Tutoring"
     url: /teaching/    
