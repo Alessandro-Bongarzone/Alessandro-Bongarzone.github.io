@@ -10,4 +10,4 @@ location: "Seattle, WA, USA"
 
 A. Bertsch, A. Bongarzone, E. Yim, P. Renaud and F. Gallaire
 
-Abstract not available 
+Video winner of the 2019 American Physical Society’s Division of Fluid Dynamics (DFD) Gallery of Fluid Motion Award. Check it out at [https://doi.org/10.1103/APS.DFD.2019.GFM.V0036](https://doi.org/10.1103/APS.DFD.2019.GFM.V0036).
