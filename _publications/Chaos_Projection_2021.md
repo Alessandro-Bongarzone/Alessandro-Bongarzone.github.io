@@ -14,4 +14,4 @@ The comprehension of the role of wetting properties in the damping of liquid osc
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/Chaos_Relaxation-of-capillary-gravity-waves-due-to-contact-line-nonlinearities-a-projection-method.pdf)
 
-<br/><img src='/images/Chaos_Projection_2021_GA.eps'>
+<br/><img src='/images/Chaos_Projection_2021_GA_bis-min.jpg'>
