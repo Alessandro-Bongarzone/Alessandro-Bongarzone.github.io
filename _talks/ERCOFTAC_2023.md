@@ -7,4 +7,3 @@ venue: "15th SIG 33-ERCOFTAC Workshop"
 date: 2023-03-01
 location: "Alghero, Italy"
 ---
-
