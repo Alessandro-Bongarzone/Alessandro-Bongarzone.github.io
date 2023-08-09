@@ -11,7 +11,7 @@ redirect_from:
 ![Editing a markdown file for a talk](/images/Fluid_Oscillations_bis.pdf)
 
 
-Welcome to my personal webpage!
+Welcome to my personal webpage! 👋
 ------
 
 I have just obtained my Ph.D. in Mechanical Engineering at École Polytechnique Fédérale de Lausanne, Switzerland. 
