@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Figure for presentation](/images/Fluid_Oscillations_bis.pdf){: .align-right width="500px"}
+![Editing a markdown file for a talk](/images/Fluid_Oscillations_bis.pdf)
+
 
 Welcome to my personal webpage!
 
@@ -34,5 +35,5 @@ Education
 
 Preview
 ======
-![Editing a markdown file for a talk](/images/Fluid_Oscillations_bis.pdf)
+![Affiliations_Logos](/images/affiliations_logos.pdf)
 
