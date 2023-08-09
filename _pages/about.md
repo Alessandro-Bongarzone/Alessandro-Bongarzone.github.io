@@ -32,7 +32,7 @@ Education
 ------
 - Ph.D. in Mechanical Engineering, École Polytechnique Fédérale de Lausanne, Switzerland, 2019-2023
 * Master's Degree in Aeronautical Engineering, Università di Pisa, Italy, 2016-2019
-+ Bachelor's Degree in Aerospace Engineering, Università di Pisa, Italy,2013-2016
++ Bachelor's Degree in Aerospace Engineering, Università di Pisa, Italy, 2013-2016
 
 
 ![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="800px"}
