@@ -36,5 +36,5 @@ Education
 
 
 
-![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="200px"}
+![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-right width="200px"}
 
