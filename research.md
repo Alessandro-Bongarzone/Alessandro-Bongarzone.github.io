@@ -1,1 +1,1 @@
-Still working in progress, but coming soon ! 
+Working in progress, but coming soon ! 
