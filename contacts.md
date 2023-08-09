@@ -4,9 +4,9 @@ Switzerland (Vaud)
 
 Laboratory of Fluid Mechanics and Instabilities
 
-Office:
+Building/Office:
 
-Academic e-mail: alessandro.bongarzone@epfl.ch
-Personal e-mail: bongarzone.alessandro@gmail.com
+Academic e-mail: 
+Personal e-mail: 
 
 Tel: 
