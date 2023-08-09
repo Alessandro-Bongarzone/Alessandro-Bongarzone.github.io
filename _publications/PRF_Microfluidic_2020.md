@@ -14,4 +14,4 @@ The present paper describes a microfluidic oscillator based on facing impinging 
 
 <br/><img src='/images/PRF_Microfluidic_2020_GA.jpg'>
 
-**Caption**: _Comparison of experimental and simulated dye concentration fields in the case of an oscillator of dimensions $`w=100`$ $`\mu m`$, $`s=800`$ $`\mu m`$, $`L=2000`$ $`\mu m`$, $`h=525`$ $`\mu m`$ at $`Re=60`$. The images are taken at regular time intervals (from top to bottom, left to right) (see movie S6 in the [Supplemental Material](http://link.aps.org/supplemental/10.1103/PhysRevFluids.5.054202))._
+**Caption**: _Comparison of experimental and simulated dye concentration fields in the case of an oscillator of dimensions $w=100$ $\mu m$, $s=800$ $\mu m$, $L=2000$ $\mu m$, $h=525$ $\mu m$ at $Re=60$. The images are taken at regular time intervals (from top to bottom, left to right) (see movie S6 in the [Supplemental Material](http://link.aps.org/supplemental/10.1103/PhysRevFluids.5.054202))._
