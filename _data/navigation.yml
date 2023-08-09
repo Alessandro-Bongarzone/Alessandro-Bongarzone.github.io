@@ -6,15 +6,15 @@ main:
   - title: "Talks"
     url: /talks/  
 
-#  - title: "Research"
-#    url: /year-archive/
-
   - title: "Tutoring"
     url: /teaching/    
     
   - title: "Resume"
     # url: /cv/
     url: /files/Resume_AB.pdf
+
+  - title: "Research"
+    url: /research/
     
 #  - title: "Tutorials"
 #    url: /portfolio/
