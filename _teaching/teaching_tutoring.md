@@ -1,3 +1,8 @@
+---
+collection: teaching
+permalink: /teaching/teaching_tutoring
+---
+
 Teaching Assistant
 ------
 
