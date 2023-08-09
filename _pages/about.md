@@ -16,11 +16,11 @@ Welcome to my personal webpage!
 
 I have just obtained my Ph.D. in Mechanical Engineering at École Polytechnique Fédérale de Lausanne, Switzerland. 
 
-During the last four years at the Laboratory of Fluid Mechanics and Instabilities ...
+During the last four years at the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi) ...
 
 My research consists of developing reduced order models such as amplitude equations to study ... 
 
-More info about my research topics can be found under [Research](https://alessandro-bongarzone.github.io/research/). 
+More info about my research topics can be found under [Research](https://alessandro-bongarzone.github.io/research/) in the navigation bar. 
 
 
 Background
