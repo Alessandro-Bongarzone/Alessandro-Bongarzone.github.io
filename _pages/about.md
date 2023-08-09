@@ -12,6 +12,7 @@ redirect_from:
 
 
 Welcome to my personal webpage!
+------
 
 I have just obtained my Ph.D. in Mechanical Engineering at École Polytechnique Fédérale de Lausanne, Switzerland. 
 
@@ -33,7 +34,5 @@ Education
 * Master's Degree in Aeronautical Engineering, Università di Pisa, Italy, 2016-2019
 + Bachelor's Degree in Aerospace Engineering, Università di Pisa, Italy,2013-2016
 
-Preview
-======
-![Affiliations_Logos](/images/affiliations_logos.pdf)
+![Affiliations_Logos](/images/affiliations_logos.jpg)
 
