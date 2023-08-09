@@ -3,7 +3,7 @@
 Licenses and certificates
 ------
 
-- **Deep Learning Specializations (Coursera)** (Feb 2022 online) [https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVW AF325](https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVW AF325)
+- **Deep Learning Specializations (Coursera)** (Feb 2022 online) [https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVWAF325](https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVWAF325)
      - Sequence Models
      - Convolutional Neural Networks
      - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
