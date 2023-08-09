@@ -35,6 +35,6 @@ Education
 + Bachelor's Degree in Aerospace Engineering, Università di Pisa, Italy,2013-2016
 
 
-![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="500px"}
+![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="800px"}
 
 
