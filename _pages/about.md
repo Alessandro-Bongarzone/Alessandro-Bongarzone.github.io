@@ -20,7 +20,7 @@ During the last four years at the [Laboratory of Fluid Mechanics and Instabiliti
 
 My research consists of developing reduced order models such as amplitude equations to study ... 
 
-More info about my research topics can be found under [Research](https://alessandro-bongarzone.github.io/research/) in the navigation bar. 
+More info about my research topics can be found under [Research & Tutorials](https://alessandro-bongarzone.github.io/research/) in the navigation bar. 
 
 
 Background
