@@ -16,7 +16,7 @@ Welcome to my personal webpage! 👋
 
 I have just completed my PhD in Mechanical Engineering at [EPFL](https://www.epfl.ch/en/) under the supervision of Prof. François Gallaire, head of the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi). 
 
-Dissertation title: _**Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids**_ (here is the [Abstract](http://Alessandro-Bongarzone.github.io/files/Abstract.pdf)).
+Dissertation title: _**Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids**_ (here is the [Abstract](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)).
 
 
 My research consists of developing reduced order models such as amplitude equations to study ... 
