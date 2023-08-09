@@ -13,3 +13,5 @@ Resonant sloshing in circular cylinders was studied by Faltinsen et al. (J. Flui
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/JFM_Super-harmonically-resonant-swirling-waves-in-longitudinally-forced-circular-cylinders.pdf)
 
 <br/><img src='/images/JFM_Longitudinal_2023_GA.pdf'>
+
+_Images of the fluid free surface while the container is subjected to a longitudinal harmonic forcing of amplitude ax=a ̄x/R≈0.23 at various driving angular frequencies Ω close to ω21/2. The fluid free surface is observed in the direction aligned with the container motion. For each driving frequency (a), (b) and (c), the time interval between two snapshots is about T/4, with T = 2π/Ω the corresponding oscillation period. On each snapshot, the vertical middle axis is represented by a red dotted line. For a forcing frequency Ω≈0.48ω21 (a) and Ω≈0.52ω21 (c) the free-surface image at each time t is mirror symmetric with respect to the middle vertical axis, the signature of a planar wave regime, while the symmetry is broken for Ω≈0.50ω21 (c) revealing a swirling wave. Results are shown for (a) Ω/ω21≈0.48, (b) Ω/ω21≈0.50 and (c) Ω/ω21≈0.52._
