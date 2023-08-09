@@ -22,4 +22,4 @@ Semester Project Supervisor
 - Tutored one Master's student at EPFL. **Title of the project**: _Faraday waves in an annular Hele-Shaw cell_ (50 total hours in Spring 2023)
 * Tutored one Master's student at EPFL. **Title of the project**: _Capillary-gravity waves: effect of a circular corral_ (35 total hours in Spring 2022)
 + Tutored one visiting Master's student from École Polytechnique (Paris) at EPFL. **Title of the project**: _Stability of fluidic oscillators_ (20 total hours in Spring 2021)
-o Tutored one Master's student at EPFL. **Title of the project**: _Effect of a variable slip-length wall-condition on the damping of two-dimensional sloshing waves_ (30 total hours in Spring 2019)
+- Tutored one Master's student at EPFL. **Title of the project**: _Effect of a variable slip-length wall-condition on the damping of two-dimensional sloshing waves_ (30 total hours in Spring 2019)
