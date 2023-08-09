@@ -13,3 +13,5 @@ The experimental and numerical investigation presented by Bertsch et al. (Phys. 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/JFM_Impinging-planar-jets-hysteretic-behaviour-and-origin-of-the-self-sustained-oscillations.pdf)
 
 <br/><img src='/images/JFM_Impinging_2021_GA.pdf'>
+
+**Caption**: Snapshots of the flow patterns in terms of dye concentrations observed at large time, (a–d) once the steady state (stable base flow or symmetry breaking for mode A) is reached or, alternatively, (e, f) once the limit cycle for mode B is fully established, for the various Reynolds numbers indicated by white squares in figure 9 of the paper. The white dashed lines represent the axes of symmetry characterizing the steady base flow. The flow configuration for $`Re=24.55`$ is shown in figure 11 of the paper.
