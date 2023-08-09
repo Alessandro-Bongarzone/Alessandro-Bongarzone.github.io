@@ -1,12 +1,12 @@
-École Polytechnique Fédérale de Lausanne (EPFL)
-Rte Cantonale 1005, Lausanne
-Switzerland (Vaud)
+**EPFL STI IGM LFMI**
+MED 2 2815 (Bâtiment MED) 
+Station 9 
+CH-1015 Lausanne, VD, Switzerland
 
-Laboratory of Fluid Mechanics and Instabilities
+Academic e-mail: _alessandro.bongarzone@epfl.ch_
+Personal e-mail: _bongarzone.alessandro@gmail.com_
 
-Building/Office:
+Tel: +41 21 693 63 05
 
-Academic e-mail: 
-Personal e-mail: 
-
-Tel: 
+**Laboratory of Fluid Mechanics and Instabilities**
+Web site:  [https://lfmi.epfl.ch/](https://lfmi.epfl.ch/)
