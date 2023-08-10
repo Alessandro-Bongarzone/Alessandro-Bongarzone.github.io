@@ -40,3 +40,6 @@ Education
 ![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="800px"}
 
 
+[LFMI](https://www.epfl.ch/labs/lfmi)
+------
+![LFMI_photo](/images/LFMI_photo_TINOS.jpg)
