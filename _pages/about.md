@@ -34,9 +34,6 @@ Education
 * Master's Degree in Aeronautical Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2016-2019
 + Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2013-2016
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/Alessan47288713 maxwidth=500 limit=5 %}
-</div>
 
 _[LFMI](https://www.epfl.ch/labs/lfmi)_
 ------
