@@ -9,16 +9,16 @@ main:
   - title: "Tutoring"
     url: /tutoring/ 
     
-  - title: "Resume"
-    # url: /cv/
-    url: /files/Resume_AB.pdf
-
   - title: "Research & Tutorials"
     url: /research/
 
-  - title: "Training"
-    url: /trainings/
+#  - title: "Training"
+#    url: /trainings/
 
+  - title: "Resume"
+    # url: /cv/
+    url: /files/Resume_AB.pdf
+    
   - title: "Contacts"
     url: /contacts/
     
