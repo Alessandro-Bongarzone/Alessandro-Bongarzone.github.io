@@ -11,3 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% plugin_type twitter_url *options %}
+
+# Example for timeline of the **jekyllrb** user with a maximum of 5 Tweets and with a width of 500px
+{% twitter https://twitter.com/Alessan47288713 maxwidth=500 limit=1 %}
