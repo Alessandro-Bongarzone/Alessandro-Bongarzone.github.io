@@ -30,6 +30,8 @@ Background
 
 During my Bachelor and Master's ..
 
+![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-right width="500px"}
+
 Education
 ------
 - Ph.D. in Mechanical Engineering, [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), Switzerland, 2019-2023
@@ -37,9 +39,7 @@ Education
 + Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2013-2016
 
 
-![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-left width="800px"}
-
-
+--
 [LFMI](https://www.epfl.ch/labs/lfmi)
-------
-![LFMI_photo](/images/LFMI_photo_TINOS.jpg)
+--
+![LFMI_photo](/images/LFMI_photo_TINOS.JPG)
