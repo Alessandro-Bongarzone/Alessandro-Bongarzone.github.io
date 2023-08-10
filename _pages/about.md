@@ -41,7 +41,7 @@ Education
 [LFMI](https://www.epfl.ch/labs/lfmi)
 ------
 
-![LFMI_photo](/images/LFMI_photo_ALGHERO.JPG)
+![LFMI_photo](/images/LFMI_photo_TINOS.JPG)
 
 _Cheers from LFMI in Tinos, Greece, Sep 2022_
 
