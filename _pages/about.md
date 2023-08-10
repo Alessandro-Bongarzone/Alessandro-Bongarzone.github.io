@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/COVER_BANNER_1.jpg)
-
-
 Welcome to my personal webpage! 👋
 ------
+![Editing a markdown file for a talk](/images/COVER_BANNER_2.jpg)
 
 I have just completed my PhD in Mechanical Engineering at [EPFL](https://www.epfl.ch/en/) under the supervision of Prof. François Gallaire, head of the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi). 
 
