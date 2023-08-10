@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/Fluid_Oscillations_bis.pdf)
+![Editing a markdown file for a talk](/images/COVER_BANNER.jpg)
 
 
 Welcome to my personal webpage! 👋
