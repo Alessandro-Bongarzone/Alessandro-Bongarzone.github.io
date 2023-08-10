@@ -43,5 +43,5 @@ _Cheers from [LFMI](https://www.epfl.ch/labs/lfmi)_
 
 ![LFMI_photo](/images/LFMI_photo_TINOS.JPG)
 
-_Tinos, Greece, Sep 2022_
+_Tinos, Greece, September 2022_
 
