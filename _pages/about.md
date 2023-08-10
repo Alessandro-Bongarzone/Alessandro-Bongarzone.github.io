@@ -30,7 +30,6 @@ Background
 
 During my Bachelor and Master's ..
 
-![Affiliations_Logos](/images/affiliations_logos.jpg){: .align-right width="500px"}
 
 Education
 ------
@@ -39,7 +38,10 @@ Education
 + Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2013-2016
 
 
---
 [LFMI](https://www.epfl.ch/labs/lfmi)
---
-![LFMI_photo](/images/LFMI_photo_TINOS.JPG)
+------
+
+![LFMI_photo](/images/LFMI_photo_ALGHERO.JPG)
+
+_
+
