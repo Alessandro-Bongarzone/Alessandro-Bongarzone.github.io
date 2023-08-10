@@ -38,10 +38,10 @@ Education
 + Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2013-2016
 
 
-[LFMI](https://www.epfl.ch/labs/lfmi)
+Cheers from [LFMI](https://www.epfl.ch/labs/lfmi)ists
 ------
 
 ![LFMI_photo](/images/LFMI_photo_TINOS.JPG)
 
-_Cheers from LFMI in Tinos, Greece, Sep 2022_
+_Tinos, Greece, Sep 2022_
 
