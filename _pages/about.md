@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/COVER_BANNER_2.jpg)
+![Editing a markdown file for a talk](/images/COVER_BANNER_1.jpg)
 
 
 Welcome to my personal webpage! 👋
