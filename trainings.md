@@ -1,6 +1,6 @@
- 
+Here is a list of all my certificates and the additional schools and training courses I have attended during my PhD:
 
-Licenses and certificates
+Certificates
 ------
 
 - **Deep Learning Specializations (Coursera)** (Feb 2022 online) [https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVWAF325](https://www.coursera.org/account/accomplishments/specialization/certificate/WXQVWVWAF325)
