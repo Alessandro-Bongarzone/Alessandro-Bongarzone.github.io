@@ -1,11 +1,11 @@
- 
+Here is a list of all the teaching and tutoring activities I have been involved in during my PhD:
 
 Teaching Assistant
 ------
 
 - **Hydrodynamics** Master course in Mechanical Engineering at EPFL (35 total hours in Spring 2022)
-* **Numerical Flow Simulations** Master course in Mechanical Engineering at EPFL (softwares used: ANSYS – Workbench, Fluent, SpaceClaim) (130 total hours Fall 2020, 2021, 2022)
-+ **Numerical Methods in Biomechanics** Master course in Mechanical Engineering at EPFL (softwares used: COMSOL Multiphysics) (45 total hours Spring 2020, 2021)
+* **Numerical Flow Simulations** Master course in Mechanical Engineering at EPFL (software used: ANSYS – Workbench, Fluent, SpaceClaim) (130 total hours Fall 2020, 2021, 2022)
++ **Numerical Methods in Biomechanics** Master course in Mechanical Engineering at EPFL (software used: COMSOL Multiphysics) (45 total hours Spring 2020, 2021)
 
 Master Thesis Supervisor
 ------
