@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination._
-_Michael Faraday_
+_The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination._         _Michael Faraday_
 
      
 Welcome to my personal webpage! 
