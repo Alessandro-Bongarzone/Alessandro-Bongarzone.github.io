@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-(_The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination._){: .align-right }
+<p style="text-align: right;">The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination.</p>
 
-_- Michael Faraday -_
+<p style="text-align: right;">Michael Faraday</p>
 
 
 Welcome to my personal webpage! 
