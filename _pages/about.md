@@ -10,11 +10,9 @@ redirect_from:
 
 `rgb(9, 105, 218)`
 
-`The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination.`
+_`The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination. -Michael Faraday-`_
 
-Michael Faraday
 
-     
 Welcome to my personal webpage! 
 ------
 ![Editing a markdown file for a talk](/images/COVER_BANNER_3-min.jpg)
