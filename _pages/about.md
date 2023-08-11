@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<p style="text-align: right;">The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination.</p>
+_The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination._
 
 <p style="text-align: right;">Michael Faraday</p>
 
@@ -20,20 +20,22 @@ Welcome to my personal webpage!
 
 I have recently completed my PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/) under the supervision of Prof. François Gallaire, head of the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi). 
 
+During my PhD, I have worked on the theoretical modelling of **[self-sustained dynamics and forced resonant oscillations](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)** in cross-junction jets and liquids sloshing.
+
 In engineering, oscillatory instabilities and resonances are often considered undesirable flow features, and measures are taken to avoid them. This may include avoiding certain parametric regions or implementing control and mitigation strategies.
 
-The examples considered in my PhD thesis, entitled **[Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)**, illustrate a different perspective: **self-sustained** or **driven flow oscillations** can be harnessed in the design of a broad spectrum of engineering devices ranging from microfluidic circuitry, and bioreactors for cell cultivation, to liquid-based templates for assembling microscale materials. The key to an effective design of these fluidic devices lies in having an adequate predictive understanding of the hydrodynamic processes at stake.
+The examples considered in my thesis, illustrate a different perspective: **self-sustained** or **driven flow oscillations** can be harnessed in the design of a broad spectrum of engineering devices ranging from microfluidic circuitry, and bioreactors for cell cultivation, to liquid-based templates for assembling microscale materials. The key to an effective design of these fluidic devices lies in having an adequate predictive understanding of the hydrodynamic processes at stake.
 
 **[Microfluidic oscillators](http://Alessandro-Bongarzone.github.io/files/JET.pdf)** based on interacting jets, **[sloshing waves](http://Alessandro-Bongarzone.github.io/files/SLOSHING.pdf)** and **[parametric Faraday waves](http://Alessandro-Bongarzone.github.io/files/FARADAY.pdf)** belong to these flows for which time-oscillations, manifesting spontaneously or as a consequence of external forcing, can be seen as beneficial.
 
-My research consists of using linear stability analysis and asymptotic techniques to provide a comprehensive theoretical framework that can rationalise some of these complex nonlinear oscillatory dynamics. To achieve this, my work draws upon direct numerical simulations and dedicated experiments, which have been performed and designed in collaboration with other experienced researchers.
+My research consists of using **linear stability analysis** and **asymptotic techniques** to provide comprehensive theoretical frameworks that can rationalize some of these complex nonlinear oscillatory dynamics. To achieve this, my work draws upon **direct numerical simulations** and dedicated **experiments**, which have been performed and designed in collaboration with other experienced researchers.
 
 More info will be available soon under [Research & Tutorials](https://alessandro-bongarzone.github.io/research/). 
 
 Background
 ------
 
-After obtaining my Scientific High School Diploma in 2013, I left my hometown, [Narni](https://en.wikipedia.org/wiki/Narni), located in the heart of Italy, and I moved to [Pisa](https://en.wikipedia.org/wiki/Pisa) for a Bachelor's Degree in Aerospace Engineering, which I completed in 2016. During my Master's Degree in Aeronautical Engineering at [Università di Pisa](https://www.unipi.it), I had the pleasure of attending the course _Computational Fluid Dynamics_ (CFD) held by Prof. Simone Camarri, who quickly made me passionate about CFD. He played a significant role in my moving to [Lausanne](https://en.wikipedia.org/wiki/Lausanne) in September 2018, where I first met Prof. François Gallaire, who introduced me to the fascinating field of hydrodynamics instabilities during a seven months Research Internship at [LFMI](https://www.epfl.ch/labs/lfmi)-[EPFL](https://www.epfl.ch/en/). Such a stimulating experience pushed me to join again [LFMI](https://www.epfl.ch/labs/lfmi) in 2019 for a 4-years PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/), which I completed in July 2023. 
+After obtaining my Scientific High School Diploma in 2013, I left my hometown, [Narni](https://en.wikipedia.org/wiki/Narni), located in the heart of Italy, and I moved to [Pisa](https://en.wikipedia.org/wiki/Pisa) for a Bachelor's Degree in Aerospace Engineering until 2016. During my Master's Degree in Aeronautical Engineering at [Università di Pisa](https://www.unipi.it), I had the pleasure of attending the course _Computational Fluid Dynamics_ (CFD) held by Prof. Simone Camarri, who quickly made me passionate about CFD. He played a significant role in my moving to [Lausanne](https://en.wikipedia.org/wiki/Lausanne) in September 2018, where I first met Prof. François Gallaire, who introduced me to the fascinating field of hydrodynamics instabilities during a seven months Research Internship at [LFMI](https://www.epfl.ch/labs/lfmi)-[EPFL](https://www.epfl.ch/en/). Such a stimulating experience pushed me to join again [LFMI](https://www.epfl.ch/labs/lfmi) in 2019 for a 4-years PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/), which I completed in July 2023. 
 
 
 Education
