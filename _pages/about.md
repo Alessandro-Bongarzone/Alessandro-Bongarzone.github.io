@@ -8,15 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+_The world little knows how many of the thoughts and theories which have passed through the mind of a scientific investigator, have been crushed in silence and secrecy by his own severe criticism and adverse examination._
+
+- _Michael Faraday_ -
+
+     
 Welcome to my personal webpage! 
 ------
 ![Editing a markdown file for a talk](/images/COVER_BANNER_3-min.jpg)
 
 I have recently completed my PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/) under the supervision of Prof. François Gallaire, head of the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi). 
 
-_In engineering, oscillatory instabilities and resonances are often considered undesirable flow features, and measures are taken to avoid them. This may include avoiding certain parametric regions or implementing control and mitigation strategies. However, the examples considered in my PhD thesis, entitled **[Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)**, illustrate a different perspective: self-sustained or driven flow oscillations can be harnessed in the design of a broad spectrum of engineering devices ranging from microfluidic circuitry, and bioreactors for cell cultivation, to liquid-based templates for assembling microscale materials. The key to an effective design of these fluidic devices lies in having an adequate predictive understanding of the hydrodynamic processes at stake. Microfluidic oscillators based on interacting jets, sloshing waves and parametric Faraday waves belong to these flows for which time-oscillations, manifesting spontaneously or as a consequence of external forcing, can be seen as beneficial. Although the emergence of an oscillatory response in these systems can be predicted by linear analysis, the observed flow dynamics and features are typically dependent on the oscillation amplitude and may deviate from the anticipated patterns due to nonlinear interactions._
+_In engineering, oscillatory instabilities and resonances are often considered undesirable flow features, and measures are taken to avoid them. This may include avoiding certain parametric regions or implementing control and mitigation strategies._
 
-My research consists of using linear stability analysis and asymptotic techniques to provide a comprehensive theoretical framework that can rationalise some of these oscillatory dynamics. To achieve this, my work draws upon direct numerical simulations and dedicated experiments, which have been performed and designed in collaboration with other experienced researchers.
+_The examples considered in my PhD thesis, entitled **[Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)**, illustrate a different perspective: **self-sustained** or **driven flow oscillations** can be harnessed in the design of a broad spectrum of engineering devices ranging from microfluidic circuitry, and bioreactors for cell cultivation, to liquid-based templates for assembling microscale materials. The key to an effective design of these fluidic devices lies in having an adequate predictive understanding of the hydrodynamic processes at stake._
+
+_**Microfluidic oscillators** based on interacting jets, **sloshing waves** and **parametric Faraday waves** belong to these flows for which time-oscillations, manifesting spontaneously or as a consequence of external forcing, can be seen as beneficial._ 
+
+My research consists of using linear stability analysis and asymptotic techniques to provide a comprehensive theoretical framework that can rationalise some of these complex nonlinear oscillatory dynamics. To achieve this, my work draws upon direct numerical simulations and dedicated experiments, which have been performed and designed in collaboration with other experienced researchers.
 
 More info will be available soon under [Research & Tutorials](https://alessandro-bongarzone.github.io/research/). 
 
