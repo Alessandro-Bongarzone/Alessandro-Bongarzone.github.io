@@ -10,8 +10,8 @@ Teaching Assistant
 Master Thesis Supervisor
 ------
 
-- Tutored one visiting student from Università di Pisa at EPFL. **Title of the project**: _Three-dimensional instability of the von Karman vortex street past a porous cylinder_ (85 total hours Sep 2021 Mar 2022)
-* Tutored one student at EPFL. **Title of the project**: _Modeling hysteresis in orbital sloshing_ (120 total hours Spring 2021)
+- Tutored one visiting Master's student from Università di Pisa at EPFL. **Title of the project**: _Three-dimensional instability of the von Karman vortex street past a porous cylinder_ (85 total hours Sep 2021 Mar 2022)
+* Tutored one Master's student at EPFL. **Title of the project**: _Modeling hysteresis in orbital sloshing_ (120 total hours Spring 2021)
 
 Semester Project Supervisor
 ------
