@@ -39,7 +39,8 @@ Education
 
 
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/PhysRevFluids/status/1689361846090825729?s=20">https://twitter.com/PhysRevFluids/status/1689361846090825729?s=20</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/PhysRevFluids/status/1689361846090825729?s=20"></a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 _[LFMI](https://www.epfl.ch/labs/lfmi)_
