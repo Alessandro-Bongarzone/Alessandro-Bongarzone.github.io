@@ -21,12 +21,6 @@ I have recently completed my PhD in [Mechanics](https://www.epfl.ch/education/ph
 
 During my PhD, I have worked on the theoretical modelling of **[self-sustained dynamics and forced resonant oscillations](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)** in cross-junction jets and liquids sloshing.
 
-In engineering, oscillatory instabilities and resonances are often considered undesirable flow features, and measures are taken to avoid them. This may include avoiding certain parametric regions or implementing control and mitigation strategies.
-
-The examples considered in my thesis, illustrate a different perspective: **self-sustained** or **driven flow oscillations** can be harnessed in the design of a broad spectrum of engineering devices ranging from microfluidic circuitry, and bioreactors for cell cultivation, to liquid-based templates for assembling microscale materials. The key to an effective design of these fluidic devices lies in having an adequate predictive understanding of the hydrodynamic processes at stake.
-
-**[Microfluidic oscillators](http://Alessandro-Bongarzone.github.io/files/JET.pdf)** based on interacting jets, **[sloshing waves](http://Alessandro-Bongarzone.github.io/files/SLOSHING.pdf)** and **[parametric Faraday waves](http://Alessandro-Bongarzone.github.io/files/FARADAY.pdf)** belong to these flows for which time-oscillations, manifesting spontaneously or as a consequence of external forcing, can be seen as beneficial.
-
 My research consists of using **linear stability analysis** and **asymptotic techniques** to provide comprehensive theoretical frameworks that can rationalize some of these complex nonlinear oscillatory dynamics. To achieve this, my work draws upon **direct numerical simulations** and dedicated **experiments**, which have been performed and designed in collaboration with other experienced researchers.
 
 More info will be available soon under [Research & Tutorials](https://alessandro-bongarzone.github.io/research/). 
