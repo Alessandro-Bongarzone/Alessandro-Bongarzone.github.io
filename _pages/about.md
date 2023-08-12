@@ -40,7 +40,7 @@ Education
 
 Tweets 
 ------
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PRFluids Editors&#39; Suggestion: A Von Kármán vortex street is a classic image of fluid dynamics: from water passing a bridge pier to winds blowing around small islands. Here, Lombardi et al. demonstrate the effect of permeability on vortex shedding. More @ <a href="https://t.co/JDJbLHFktO">https://t.co/JDJbLHFktO</a> <a href="https://t.co/LI5V2MgWRe">pic.twitter.com/LI5V2MgWRe</a></p>&mdash; Physical Review Fluids (@PhysRevFluids) <a href="https://twitter.com/PhysRevFluids/status/1689361846090825729?ref_src=twsrc%5Etfw">August 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" align="center"><p lang="qam" dir="ltr"><a href="https://twitter.com/lfmi_epfl?ref_src=twsrc%5Etfw">@lfmi_epfl</a> <a href="https://t.co/1kdYC5csz8">https://t.co/1kdYC5csz8</a></p>&mdash; Alessandro Bongarzone (@Alessan47288713) <a href="https://twitter.com/Alessan47288713/status/1690338795814547457?ref_src=twsrc%5Etfw">August 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
