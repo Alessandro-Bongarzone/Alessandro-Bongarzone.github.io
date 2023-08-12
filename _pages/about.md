@@ -42,6 +42,7 @@ Tweets
 ------
 <blockquote class="twitter-tweet" align="center"><p lang="qam" dir="ltr"><a href="https://twitter.com/lfmi_epfl?ref_src=twsrc%5Etfw">@lfmi_epfl</a> <a href="https://t.co/1kdYC5csz8">https://t.co/1kdYC5csz8</a></p>&mdash; Alessandro Bongarzone (@Alessan47288713) <a href="https://twitter.com/Alessan47288713/status/1690338795814547457?ref_src=twsrc%5Etfw">August 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/LMIS4?src=hash&amp;ref_src=twsrc%5Etfw">#LMIS4</a> and <a href="https://twitter.com/hashtag/LFMI?src=hash&amp;ref_src=twsrc%5Etfw">#LFMI</a> joint work awarded at the Gallery of Fluid Motion of the APS DFD annual meeting 2019. <a href="https://twitter.com/EPFLEngineering?ref_src=twsrc%5Etfw">@EPFLEngineering</a><br>Swinging jets <a href="https://t.co/3oGE3plgkC">https://t.co/3oGE3plgkC</a></p>&mdash; Lab of Fluid Mechanics &amp; Instabilities LFMI @ EPFL (@lfmi_epfl) <a href="https://twitter.com/lfmi_epfl/status/1201520793303289857?ref_src=twsrc%5Etfw">December 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 _[LFMI](https://www.epfl.ch/labs/lfmi)_
