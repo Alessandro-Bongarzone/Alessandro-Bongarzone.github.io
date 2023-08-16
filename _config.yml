@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage" 
+title                    : "Home" 
 title_separator          : "-"
 name                     : &name "Alessandro Bongarzone"
 description              : &description "personal description"
