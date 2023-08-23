@@ -5,7 +5,7 @@ permalink: /publication/PRF_Elliptic_2023
 excerpt: 'A. Marcotte, F. Gallaire and A. Bongarzone'
 date: 2023-10-01
 venue: 'Physical Review Fluids'
-paperurl: '[https://doi.org/10.1103/PhysRevFluids.8.084802](https://doi.org/10.1103/PhysRevFluids.8.084802)'
+paperurl: 'https://doi.org/10.1103/PhysRevFluids.8.084802'
 citation: ''
 ---
 We investigate the response of the free liquid surface in a partially filled circular cylindrical container undergoing a planar elliptic and time-periodic orbit while maintaining fixed its orientation. For small forcing amplitudes and deep liquid layers, we quantify the effect of the orbit’s aspect ratio on the surface dynamics in the vicinity of the fluid system’s lowest natural frequency. We provide experimental evidence of the existence of a frequency range where stable swirling can be either co- or counter-directed with respect to the container’s direction of motion. Our findings are then rationalized by an inviscid weakly nonlinear model, amended with heuristic damping.
