@@ -15,5 +15,5 @@ We investigate the response of the free liquid surface in a partially filled cir
 <br/><img src='/images/PRF_Elliptic_2023_GA.pdf'>
 
 
-**Caption**: _Free surface snapshots corresponding to an elliptic harmonic forcing of driving frequency $\Omega/\omega_0=1.04$ and driving amplitude $a_x=1.5\,\text{mm}$, and for an ellipticity $\alpha=0.50$. Direction of the container motion: left, anticlockwise; right, clockwise (follow the black arrows). The white arrows indicate the direction of the wave rotation. A visual indication of the different wave amplitudes is provided by the black double-sided arrows._
+**Caption**: _Free surface snapshots corresponding to an elliptic harmonic forcing of driving frequency $\Omega/\omega_0=1.04$, driving amplitude $a_x=1.5\,\text{mm}$, and ellipticity $\alpha=a_y/a_x=0.50$. Direction of the container motion: **left**, anticlockwise; **right**, clockwise (follow the black arrows). The white arrows indicate the direction of the wave rotation: **left**, co-swirling ; **right**, counter-swirling. A visual indication of the different wave amplitudes is provided by the black double-sided arrows. Stable counter-swirling displays a lower wave amplitude._
 
