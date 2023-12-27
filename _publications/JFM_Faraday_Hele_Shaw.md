@@ -12,7 +12,7 @@ Existing theoretical analyses of Faraday waves in Hele-Shaw cells rely on the Da
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/JFM_Faraday_Hele_Shaw_Draft.pdf)
 
-<br/><img src='/images/JFM_Faraday_Hele_Shaw_2023_GA.pdf'>
+<br/><img src='/images/JFM_Faraday_Hele_Shaw_2023_GA_bis.pdf'>
 
 
 **Caption**: _Experiments (empty circles) are compared with the theoretically predicted subharmonic Faraday threshold computed via Floquet analysis (2.32) for different fixed azimuthal wavenumber $m$ and according to the standard (black solid lines) and revised (red regions) gap-averaged models. The tongues are computed by including contact line dissipation with a value of $M$ equal to 0.0485  as in figures 6(b) and 8. As explained in Section 4.3, the vertical error bars indicate the amplitude range between the smallest measured forcing amplitude at which the instability was detected and the largest one at which the surface remains stable and flat. These two limiting values are successively corrected by accounting for the optical pen's measurement error and the non-uniformity of the output signal of the loudspeaker._
