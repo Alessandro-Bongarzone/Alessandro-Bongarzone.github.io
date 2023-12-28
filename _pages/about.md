@@ -33,13 +33,18 @@ After obtaining my Scientific High School Diploma in 2013, I left my hometown, [
 
 Education
 ------
-- Ph.D. in Mechanical Engineering, [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), Switzerland, 2019-2023
-* Master's Degree in Aeronautical Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2016-2019
-+ Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Italy, 2013-2016
+- Postdoctoral Researcher in Aerospace Engineering, [ONERA The French Aerospace Lab](https://www.onera.fr/en/), France, Paris, 2023-Present
+* Ph.D. in Mechanical Engineering, [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), Lausanne, Switzerland, 2019-2023
++ Master's Degree in Aeronautical Engineering, [Università di Pisa](https://www.unipi.it), Pisa, Italy, 2016-2019
+- Bachelor's Degree in Aerospace Engineering, [Università di Pisa](https://www.unipi.it), Pisa, Italy, 2013-2016
 
 
 Tweets 
 ------
+
+<blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr">Our <a href="https://twitter.com/JFluidMech?ref_src=twsrc%5Etfw">@JFluidMech</a> paper proposes a gap-averaged Floquet theory that considers inertial effects. We reveal a modified damping coefficient affecting the wave response and emphasise the significance of accounting for frequency detuning. <a href="https://twitter.com/lfmi_epfl?ref_src=twsrc%5Etfw">@lfmi_epfl</a> <a href="https://twitter.com/hashtag/OpenAccess?src=hash&amp;ref_src=twsrc%5Etfw">#OpenAccess</a> <a href="https://t.co/z4yyGfQL6B">https://t.co/z4yyGfQL6B</a> <a href="https://t.co/eyG0zE2Rwq">pic.twitter.com/eyG0zE2Rwq</a></p>&mdash; Alessandro Bongarzone (@BongarzoneAle) <a href="https://twitter.com/BongarzoneAle/status/1740010494495207523?ref_src=twsrc%5Etfw">December 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" align="center"><p lang="zxx" dir="ltr"><a href="https://t.co/L8XDRC0cZX">https://t.co/L8XDRC0cZX</a> <a href="https://t.co/7ol1PPaakb">pic.twitter.com/7ol1PPaakb</a></p>&mdash; Alessandro Bongarzone (@BongarzoneAle) <a href="https://twitter.com/BongarzoneAle/status/1740342221902340344?ref_src=twsrc%5Etfw">December 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" align="center"><p lang="en" dir="ltr"><a href="https://twitter.com/lfmi_epfl?ref_src=twsrc%5Etfw">@lfmi_epfl</a> congratulates its new Doctor ès Sciences Dr. Alessandro Bongarzone <a href="https://twitter.com/BongarzoneAle?ref_src=twsrc%5Etfw">@BongarzoneAle</a>, who successfully defended his work entitled “Self-sustained dynamics and forced resonant oscillations in flows: cross-junction jets and sloshing liquids” <a href="https://twitter.com/EPFL?ref_src=twsrc%5Etfw">@EPFL</a> <a href="https://twitter.com/EPFLEngineering?ref_src=twsrc%5Etfw">@EPFLEngineering</a> <a href="https://t.co/InpXU2gc0t">pic.twitter.com/InpXU2gc0t</a></p>&mdash; Lab of Fluid Mechanics &amp; Instabilities LFMI @ EPFL (@lfmi_epfl) <a href="https://twitter.com/lfmi_epfl/status/1706740576656216399?ref_src=twsrc%5Etfw">September 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
