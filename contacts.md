@@ -1,17 +1,15 @@
-**EPFL STI IGM LFMI**
+**ONERA**
 
-MED 2 2815 (Bâtiment MED) 
+Department of Aerodynamics, Aeroelasticity, Acoustics (DAAA)
 
-Station 9 
+8 rue des Vertugadins
+92190 Meudon
+France  
 
-CH-1015 Lausanne, VD, Switzerland
+Web site:  [www.onera.fr/en](www.onera.fr/en)
 
-Academic e-mail: _alessandro.bongarzone@epfl.ch_
+Main Academic e-mail: _alessandro.bongarzone@onera.fr_
+Secondary Academic e-mail: _alessandro.bongarzone@epfl.ch_
 
 Personal e-mail: _bongarzone.alessandro@gmail.com_
 
-Tel: +41 21 693 63 05
-
-**Laboratory of Fluid Mechanics and Instabilities**
-
-Web site:  [https://lfmi.epfl.ch/](https://lfmi.epfl.ch/)
