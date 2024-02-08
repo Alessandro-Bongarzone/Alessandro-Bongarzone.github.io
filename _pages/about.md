@@ -15,7 +15,7 @@ _The world little knows how many of the thoughts and theories which have passed 
 
 Welcome to my webpage! 
 ------
-![Editing a markdown file for a talk](/images/COVER_BANNER_3-min.jpg)
+![Editing a markdown file for a talk](/images/COVER_BANNER_4-min.jpg)
 
 I have recently started a new position as a post-doctoral researcher in [ONERA The French Aerospace Lab](https://www.onera.fr/en) after having completed my PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/) under the supervision of Prof. François Gallaire, head of the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi). 
 
