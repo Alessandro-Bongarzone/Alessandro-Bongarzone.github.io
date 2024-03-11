@@ -12,7 +12,7 @@ Existing theoretical analyses of Faraday waves in Hele-Shaw cells rely on the Da
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/JFM_Faraday_Hele_Shaw_Draft.pdf)
 
-<br/><img src='/images/JFM_Faraday_Hele_Shaw_2023_GA_bis.png'>
+<br/><img src='/images/JFM_HeleShaw_Try_1.png'>
 
 
 **Caption**: _These three snapshots correspond to snapshots (ii), (iii) and (iv) of figure 12 and show, using a different light contrast, how the contact line constantly moves over a wetted substrate due to the presence of a stable thin film deposited and alimented at each cycle._
