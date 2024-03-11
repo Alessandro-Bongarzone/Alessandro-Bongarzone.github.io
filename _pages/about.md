@@ -17,7 +17,7 @@ Welcome to my webpage!
 ------
 ![Editing a markdown file for a talk](/images/COVER_BANNER_3-min.jpg)
 
-I have recently started a new position as a post-doctoral researcher in [ONERA The French Aerospace Lab](https://www.onera.fr/en) after having completed my PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/) 
+I have recently started a new position as a post-doctoral researcher in [ONERA The French Aerospace Lab](https://www.onera.fr/en) after having completed my PhD in [Mechanics](https://www.epfl.ch/education/phd/edme-mechanics/) at [EPFL](https://www.epfl.ch/en/).
 
 During my PhD in the [Laboratory of Fluid Mechanics and Instabilities](https://www.epfl.ch/labs/lfmi), I have worked on the theoretical modelling of **[self-sustained dynamics and forced resonant oscillations](http://Alessandro-Bongarzone.github.io/files/Abstract_PhD.pdf)** in various flow problems ranging from [cross-junction jets](https://alessandro-bongarzone.github.io/research/) to [liquids sloshing](https://alessandro-bongarzone.github.io/research/).
 
