@@ -1,16 +1,16 @@
 ---
 title: "Lagrangian versus Eulerian view on the mean drift and streaming flows in orbital sloshing"
 collection: publications
-permalink: /publication/PRF_UTube
+permalink: /publication/PRF_MEAN_FLOW
 excerpt: 'A. Bongarzone and F. Gallaire'
 date: 2024-12-20
 venue: 'Physical Review Fluids'
 paperurl: 'https://doi.org/10.1103/PhysRevFluids.9.124803'
 citation: ''
 ---
-The nonlinear decay of oscillations of a liquid column in a U-shaped tube is investigated within the theoretical framework of the projection method formalized by Bongarzone et al. (2021). Starting from the full hydrodynamic system supplemented by a phenomenological contact line model, this physics-inspired method uses successive linear eigenmode projections to simulate the relaxation dynamics of liquid oscillations in the presence of sliding triple lines. Each projection is shown to eventually induce a rapid loss of total energy in the liquid motion, thus contributing to its nonlinear damping. A thorough quantitative comparison with experiments by Dollet et al. (2020) demonstrates that, in contradistinction with their simplistic one-degree-of-freedom model, the present approach not only describes well the transient stick-slip dynamics, but it also correctly captures the global stick-slip to stick transition, as well as the residual exponentially decaying bulk motion following the arrest of the contact line, which has been so far overlooked by existing theoretical analyses but is clearly attested experimentally. This study offers a further contribution to rationalizing the impact of contact angle hysteresis and its associated solidlike friction on the decay of liquid oscillations in the presence of sliding triple lines.
+Orbital sloshing is a technique to gently mix a container's liquid content and it is commonly used in fermentation and cell cultivation processes. Besides the rich wave dynamics observed at the interface, Bouvard et al. [Phys. Rev. Fluids 2, 084801 (2017)] unveiled the structure of the Lagrangian mean flow hiding in the fluid bulk. The latter flow shows a global toroidal (azimuthal) rotation codirected with the wave and nontrivial poloidal vortices near the contact line. Rotating sloshing waves are known to induce a net motion of fluid particles and hence a wave-averaged difference between the Eulerian flow—viscous streaming—and the Lagrangian flow, that is commonly referred to as Stokes drift. Nevertheless, discerning these two components in an experiment is challenging as they scale similarly with the forcing amplitude and frequency. Their relative contributions remain therefore unquantified, particularly for highly viscous fluids, for which prior analysis, based on inviscid arguments, fails. In this work, we construct a truncated asymptotic approximation of the problem, where the solution at each order is computed numerically to describe as accurately as possible the contact line region, otherwise analytically untractable. The results of this weakly nonlinear analysis in terms of first-order wave and second-order mean flow are then thoroughly compared with the experiments by Bouvard et al. [Phys. Rev. Fluids 2, 084801 (2017)], showing a remarkable agreement for off-resonance frequencies. When viscosity matters, our findings suggest that it is incorrect to attribute the poloidal patterns solely to the Eulerian streaming flow and that viscous corrections to the Stokes drift are equally important in the resulting mean Lagrangian flow.
 
-[Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_UTube.pdf)
+[Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_MEAN_FLOW.pdf)
 
 <br/><img src='/images/PRF_UTube_GraphAbstract.jpg'>
 
