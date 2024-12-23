@@ -12,8 +12,8 @@ Orbital sloshing is a technique to gently mix a container's liquid content and i
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_MEAN_FLOW.pdf)
 
-<br/><img src='/images/PRF_MEAN_FLOW_2024_GraphAbst.jpg'>
+<br/><img src='/images/PRF_MEAN_FLOW_2024_GraphAbst.png'>
 
-**Caption**: _ **Left**, Weakly nonlinear second-order Lagrangian mean flow computed numerically. Two different measurements, at the phase $\pi/2$ of the container trajectory, are shown, i.e. (c) in the horizontal plane at a coordinate z = z0 = −0.23 below the free surface, and (d) in the vertical plane. These measurements correspond to a driving frequency $\Omega/\omega_1 = 0.67$, a forcing amplitude $\epsilon = 0.057$ and a fluid viscosity $\nu = 500\, mm^2 s^{−1}$._
+**Caption**: _ **(a)-(b)**, Lagrangian mean flow measured by B17 using stroboscopic PIV. Two different measurements, at the phase $\pi/2$ of the container trajectory, are shown, i.e. (c) in the horizontal plane at a coordinate z = z0 = −0.23 below the free surface, and (d) in the vertical plane. These measurements correspond to a driving frequency $\Omega/\omega_1 = 0.67$, a forcing amplitude $\epsilon = 0.057$ and a fluid viscosity $\nu = 500\, mm^2 s^{−1}$. Panels **(c)-(d)** display the same fields shown in **(a)-(b)**, but numerically predicted according to the present viscous weakly nonlinear analysis._
 
 
