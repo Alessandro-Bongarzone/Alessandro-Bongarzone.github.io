@@ -12,7 +12,8 @@ Orbital sloshing is a technique to gently mix a container's liquid content and i
 
 [Check it out here](http://Alessandro-Bongarzone.github.io/files/PRF_MEAN_FLOW.pdf)
 
-<br/><img src='/images/PRF_UTube_GraphAbstract.jpg'>
+<br/><img src='/images/PRF_MEAN_FLOW_2024_GraphAbst.jpg'>
+
+**Caption**: _ **Left**, Weakly nonlinear second-order Lagrangian mean flow computed numerically. Two different measurements, at the phase $\pi/2$ of the container trajectory, are shown, i.e. (c) in the horizontal plane at a coordinate z = z0 = −0.23 below the free surface, and (d) in the vertical plane. These measurements correspond to a driving frequency $\Omega/\omega_1 = 0.67$, a forcing amplitude $\epsilon = 0.057$ and a fluid viscosity $\nu = 500\, mm^2 s^{−1}$._
 
 
-**Caption**: _ **Left**, Sketch of the U-tube configuration: two- dimensional (2D) view of the centerline plane. The tube radius is assumed constant and denoted by $a$. The length of the liquid column is $l$. $h$ indicates the height difference of the liquid column between the left and right straight channels. $g$ is the gravity acceleration. The advancing and receding dynamic contact angles are, respectively, $\theta_a$ and $\theta_r$, whereas the static contact angle is labelled as $\theta_s$ and it is in general $\ne 90^{\circ}$. **Top-Right**, Phenomenological law used in the present work to model the apparent dynamic contact angle, $\theta$, vs the non-dimensional contact line speed $Ca' = Ca\,\partial\eta/\partial t$, with $Ca = \nu\rho\sqrt{gl/2}/\gamma$, $\nu$ the kinematic liquid viscosity, $\rho$ the liquid density and $\gamma$ the liquid-air surface tension. **Bottom-Right**, Contact line elevation versus time for different initial conditions. Blue solid line: predictions from the projection model. Markers: experiments by Dollet et al. (2020)._
